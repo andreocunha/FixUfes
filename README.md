@@ -22,7 +22,7 @@ podem acessar o mapa pelo App, ver o local do problema e ir com os equipamentos 
 
 
 <h1 align="center">
-    <img alt="Example" title="Example" src=".github/exemplo.png" width="700px" />
+    <img alt="Example" title="Example" src=".github/exemplo.png" width="900px" />
 </h1>
 
 
