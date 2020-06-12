@@ -7,12 +7,9 @@
 </h4>
 
 <p align="center">
-  <a href="#-o-que-é">Next Level Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-o-que-é">O que é a FixUfes?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-information_source">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projetos-finais">Projetos finais (Mobile e Web)</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 ## :information_source: O que é a FixUfes?
@@ -25,7 +22,7 @@ podem acessar o mapa pelo App, ver o local do problema e ir com os equipamentos 
 
 
 <h1 align="center">
-    <img alt="Example" title="Example" src=".github/trabalhadore.png" width="500px" />
+    <img alt="Example" title="Example" src=".github/trabalhadores.png" width="500px" />
 </h1>
 
 
