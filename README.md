@@ -7,12 +7,12 @@
 </h4>
 
 <p align="center">
-  <a href="#-information_source">O que é a FixUfes?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-information_source">O que é o FixUfes?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-Tecnologias">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-## :information_source: O que é a FixUfes?
+## :information_source: O que é o FixUfes?
 
 A ideia surgiu como projeto extra para a aula de física no segundo período da faculdade, 
 como forma de obter conhecimento na área de web e ajudar a universidade. O projeto consiste 
