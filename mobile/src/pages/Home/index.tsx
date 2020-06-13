@@ -22,7 +22,7 @@ const Home = () => {
               <View style={styles.main}>
                       <Image source={require('../../assets/logo_ufes.png')}/> 
                       <View>
-                          <Text style={styles.title}>Melhorando a Ufes</Text>
+                          <Text style={styles.title}>Tornando a Ufes um lugar melhor!</Text>
                           <Text style={styles.description}>Ajudamos os funcionários a encontrarem pontos de problemas de forma eficiente.</Text>
                       </View>
               </View>
