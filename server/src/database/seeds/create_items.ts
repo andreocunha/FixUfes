@@ -5,8 +5,8 @@ export async function seed(knex: Knex){
         { title: 'Lampâda Queimada', image: 'lampada.svg'},
         { title: 'Projetor Defeituoso', image: 'projetor.svg'},
         { title: 'Ar-condicionado Defeituoso', image: 'arcondicionado.svg'},
-        { title: 'Banheiro', image: 'banheiro.svg'},
         { title: 'Bebedouro com Problema', image: 'bebedouro.svg'},
         { title: 'Sem Energia', image: 'energia.svg'},
+        { title: 'Outros Problemas', image: 'outros.svg'},
     ]);
 }

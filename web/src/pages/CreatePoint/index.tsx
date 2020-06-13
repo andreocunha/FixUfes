@@ -150,14 +150,14 @@ const CreatePoint = () =>{
         }
 
         await api.post('points', data);
-        alert('Ponto de coleta criado!');
+        alert('Novo problema cadastrado!');
         history.push('/');
     }
 
     return(
        <div id="page-create-point">
             <header>
-                <img src={logo} alt="Ecoleta"/>
+                <img src={logo} alt="FixUfes"/>
 
                 <Link to="/">
                     <FiArrowLeft size={25}/>
@@ -166,7 +166,7 @@ const CreatePoint = () =>{
             </header>
 
             <form onSubmit={handleSubmit}>
-                <h1>Cadastro do <br/> ponto de coleta</h1>
+                <h1>Cadastro do <br/> problema</h1>
 
 
                 <Dropzone onFileUploaded={setSelectedFile}/>
@@ -293,7 +293,7 @@ const CreatePoint = () =>{
                 </fieldset>
 
                 <button type="submit">
-                    Cadastrar ponto de coleta
+                    Cadastrar problema
                 </button>
             </form>
         </div> 
